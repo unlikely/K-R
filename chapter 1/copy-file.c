@@ -6,7 +6,8 @@ main()
 
   c = getchar();
   while (c != EOF) {
+    printf("%d\n", (c != EOF));
     putchar(c);
-    c= getchar();
+    c = getchar();
   }
 }

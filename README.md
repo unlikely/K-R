@@ -1,3 +1,3 @@
-K&R solutions and other files
+# K&R solutions and other files
 
-exercise files and other exploratory programming while working through the K&R C book.
+exercise files and other exploratory programming while working through the *K&R C* book.

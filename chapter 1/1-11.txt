@@ -1,0 +1,3 @@
+running the program, typing various word, phrases, and characters.
+
+seems like non-ascii characters (special characters etc) are most likely to cause problems? or anything that could cause the program to interpret a normal set of characters as a nonprinting special character.

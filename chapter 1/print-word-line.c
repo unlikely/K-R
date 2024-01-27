@@ -3,10 +3,7 @@
 #define IN 1
 #define OUT 0
 
-<<<<<<< HEAD
-=======
-// modifeid version of word counter, still has that logic in it
->>>>>>> 7182956 (section 1.5.4, word counting)
+// modified version of word counter, still has that logic in it
 main()
 {
   int c, nl, nw, nc, state;
